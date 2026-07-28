@@ -1,6 +1,5 @@
 # IAAgentContentDigital
 
-<<<<<<< HEAD
 ## Crear y activar entorno virtual
 
 En Windows, puedes crear un entorno virtual con Python desde la raíz del proyecto:
@@ -54,7 +53,3 @@ $env:OLLAMA_MODEL="phi3"
 ```powershell
 $env:OLLAMA_EMBEDDING_MODEL="nomic-embed-text"
 ```
-=======
-hola mundo
-
->>>>>>> b6af95ea776d5a34b1acd85d788b2ee0a9fe788a
